@@ -1,0 +1,20 @@
+SET name Alex
+GET name
+SET greeting "hello world"
+GET greeting
+INCR visits
+INCR visits
+GET visits
+INCR name
+KEYS *
+DEL name nothere
+UNDO
+GET name
+UNDO
+FOO
+EXISTS name
+DBSIZE
+FLUSHALL
+DBSIZE
+UNDO
+DBSIZE

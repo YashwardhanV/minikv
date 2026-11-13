@@ -1,0 +1,22 @@
+OK
+"Alex"
+OK
+"hello world"
+(integer) 1
+(integer) 2
+"2"
+(error) ERR value is not an integer or out of range
+1) "greeting"
+2) "name"
+3) "visits"
+(integer) 1
+OK
+"Alex"
+OK
+(error) ERR unknown command 'FOO'
+(integer) 1
+(integer) 3
+OK
+(integer) 0
+OK
+(integer) 3
